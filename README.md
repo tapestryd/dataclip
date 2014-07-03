@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dataclip
 
 ## Overview
@@ -7,7 +6,7 @@ Dataclip allows the results of SQL queries from a database backend to be easily 
 
 ## Object Model
 
-* Users
-* Accounts
-* DataConnections
-* DataClips
+* Accounts - Accounts allow groups of users to be added to the system.
+* Users - Users have access to account configurations.
+* DataConnections - Each account has data connections that contain the information needed to connect to the data source.
+* DataClips - Each data clip has the commands and data connection relationship necessary to genarate a result clip.
