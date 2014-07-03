@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dataclip
 
 ## Overview
@@ -10,4 +11,3 @@ Dataclip allows the results of SQL queries from a database backend to be easily 
 * Accounts
 * DataConnections
 * DataClips
-
